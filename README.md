@@ -8,4 +8,4 @@ I'm Gustavo, a backend developer focused on .NET and scalable systems.
 
 Tech: .NET | C# | SQL Server | MongoDB | Redis | Kafka | Docker
 
-📫 LinkedIn: ...
+📫 LinkedIn: https://www.linkedin.com/in/gustavo-galaverna/
